@@ -3,8 +3,7 @@
 ---
 
 # Camilo Martinez Rincon
-
-**Software Developer | Java • Node.js • AWS • Angular • React**
+Software Developer | Java • Node.js • AWS • Angular • React
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
